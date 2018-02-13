@@ -1,0 +1,19 @@
+{
+    "libraries": [
+        "openui5.googlemaps",
+        "openui5.parallax",
+        "ui5lab.geometry",
+        "ui5lab.striptoastr",
+        "it.designfuture.qrcode",
+        "it.designfuture.flatpickr",
+        "it.designfuture.multiinputdialog",
+        "nabi.m",
+        "it.designfuture.chartjs",
+        "it.designfuture.toastr",
+        "ui5lab.wordcloud",
+        "it.designfuture.swissknife",
+        "ui5lab.wl.pdf",
+        "openui5.camera",
+		"ui5lab.wl.img"
+    ]
+}
